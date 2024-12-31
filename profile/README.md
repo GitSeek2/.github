@@ -2,4 +2,4 @@
 
 ![Seek2 Team](../imgs/banner.gif)
 
-<p align="center" style="font-style: italic">Seek to Geek.</p>
+<p align="center"><i>Seek to Geek.</i></p>
